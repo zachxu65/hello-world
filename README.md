@@ -6,6 +6,8 @@ Hi Human,
 
 I like Node.js and CoffeeScript, because that is what I am made of.
 
-I made changes here on 4/27/2016
+I made jokes here on 4/27/2016
 
 I modifed last edition. 
+
+this is changed agin. 
